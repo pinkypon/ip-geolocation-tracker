@@ -33,7 +33,7 @@ A full-stack web application for tracking IP geolocation information, built with
 
 ### Backend
 
-- Laravel 11
+- Laravel 12.38.1
 - Laravel Sanctum (Authentication)
 - SQLite Database
 
