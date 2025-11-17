@@ -2,9 +2,18 @@
 
 A full-stack web application for tracking IP geolocation information, built with Laravel and React as part of JLabs technical assessment.
 
+## Project Structure
+
+```
+.
+├── README.md
+├── fullstack/          # Laravel Backend API
+└── frontend/           # React Frontend Application
+```
+
 ## Features
 
-### Required Features ✅
+### Required Features
 
 - User authentication (Register/Login/Logout)
 - Auto-fetch user's IP geolocation on home screen
@@ -14,7 +23,7 @@ A full-stack web application for tracking IP geolocation information, built with
 - Clear search button (reverts to user's IP)
 - Search history list with timestamps
 
-### Optional Features (Bonus Points) ✅
+### Optional Features (Bonus Points)
 
 - Clickable history items to reload IP information
 - Checkbox selection with bulk delete functionality
